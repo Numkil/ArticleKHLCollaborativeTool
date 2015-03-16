@@ -5,4 +5,4 @@ te bewerken en te bekijken.
 
 [![PDF Status](https://www.sharelatex.com/github/repos/Numkil/ArticleKHLCollaborativeTool/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/Numkil/ArticleKHLCollaborativeTool/builds/latest/output.pdf)
 
-tip klik op de badge voor de pdf te kunnen bekijken.
+TIP: Klik op {PDF|Built} om de gecompileerde pdf te kunnen bekijken.
